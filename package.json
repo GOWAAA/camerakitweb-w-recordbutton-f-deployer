@@ -22,7 +22,7 @@
   "dependencies": {
     "@ffmpeg/ffmpeg": "^0.12.10",
     "@ffmpeg/util": "^0.12.1",
-    "@snap/camera-kit": "^1.1.0",
+    "@snap/camera-kit": "^1.2.0",
     "dotenv": "^16.4.7",
     "dotenv-webpack": "^8.1.0",
     "jquery": "^3.7.0",
